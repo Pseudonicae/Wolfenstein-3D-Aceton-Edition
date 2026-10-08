@@ -1,7 +1,7 @@
 HTML5 Wolfenstein 3D Aceton Edition
 ======================
 
-It is a my modification with a modified storyline adapted to Russian-speakers.
+It is a my modification with a modified storyline adapted to Russian-speakers. I didn't touch the code itself, since I'm not a programmer.
 I would like to thank the GitHub user Mat Brennan (loadx) who created the original project. (original : https://github.com/loadx/html5-wolfenstein3D )
 
 All property is copyright Bethesda and id software.
